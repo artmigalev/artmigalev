@@ -19,7 +19,7 @@ My goal is to create user-friendly, performant, and visually appealing interface
 
   - 📫   Feel free to ping me on [LinkedIn](linkedin.com/in/artyom-migalev)
 
-  - 📝   Checkout my resume [resume](http://example/com)
+  - 📝   Checkout my resume [resume](https://drive.google.com/file/d/1McirGHSp5TR4FPNaL9C7akSOZmQ896k0/view?usp=sharing)
   - ✨ Developed creative and analytical skills.
 
 </div>
