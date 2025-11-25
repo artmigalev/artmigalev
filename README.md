@@ -5,7 +5,7 @@ My goal is to create user-friendly, performant, and visually appealing interface
 
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN6enpldzBqNTMzcTJidGt5NW1ndXg5czlsdWh6MXNydTFhcTc4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" align="right" height="200" width="200" />
-
+<hr></hr>
 
 
 ### 👨🏻‍💻 About Me:
@@ -21,10 +21,17 @@ My goal is to create user-friendly, performant, and visually appealing interface
 - 📝   Checkout my resume [resume](http://example/com)
 - ✨ Developed creative and analytical skills.
 
-<br/>
+<hr></hr>
 
-### Connect with me </h2>
-  <img  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25uMjhhanc1Ymc1aXRhZDg4MzFseDhrbHl1anFiMDR3ZGlmazZ3cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tj1SIapmPDqgyBRzZ3/giphy.gif" style="fill:black" align="right" height="150" width="100" />
+<div align="center>
+
+
+ ### Connect with me </h2>
+
+  <img  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25uMjhhanc1Ymc1aXRhZDg4MzFseDhrbHl1anFiMDR3ZGlmazZ3cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tj1SIapmPDqgyBRzZ3/giphy.gif" align="right" height="150" width="100" />
+
+
+<div align="center>
 
 <a href="https://github.com/https://github.com/artmigalev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -36,26 +43,27 @@ My goal is to create user-friendly, performant, and visually appealing interface
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
+</div>
+
+</div>
+
+
+
 
 
 
 
 <br/>
 
+<hr></hr>
 
   ### My Skill Set
 
 <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZlZzhyMno1a2Q4cGxpcHdwb29uNzB1bXk0OGYxb3FjMnJ6dG5qcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/min28ijNNEE0ZqcOno/giphy.gif" align="left" height="100" width="100" />
 
-
-
-
-
-
-<table><tr><td valign="top" width="100%">
-
-
-
+<table width="100%">
+  <tr>
+    <td align="top" width="100%">
 
 ### Frontend
 <div align="center">
