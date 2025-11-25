@@ -21,14 +21,11 @@ My goal is to create user-friendly, performant, and visually appealing interface
 - 📝   Checkout my resume [resume](http://example/com)
 - ✨ Developed creative and analytical skills.
 
-
-
+<div>
 <div style="display: flex; flex-direction: row; ">
   <h2 style="margin-right: 10px;">  Connect with me </h2>
   <div><img  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25uMjhhanc1Ymc1aXRhZDg4MzFseDhrbHl1anFiMDR3ZGlmazZ3cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tj1SIapmPDqgyBRzZ3/giphy.gif" style="fill:black" align="right" height="150" width="100" /></div>
 </div>
-
-
 
 <div >
 <a href="https://github.com/https://github.com/artmigalev" target="_blank">
@@ -41,6 +38,11 @@ My goal is to create user-friendly, performant, and visually appealing interface
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
+</div>
+
+
+
+
 
 <br/>
 
