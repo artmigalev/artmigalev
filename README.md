@@ -1,89 +1,67 @@
-### Hey 👋, I'm Artyom Migalev
+# 👋 Привет, я Артём
+**Frontend Developer | React | TypeScript | Firebase**
 
-I am a qualified and professional web developer with experience in web development and creating modern, responsive, and interactive web applications.
-My goal is to create user-friendly, performant, and visually appealing interfaces that enhance the user experience. I am constantly learning new technologies and tools to stay up to date with the latest trends in web development.
-<hr></hr>
-<div>
+Создаю современные веб-приложения, забочусь о чистой архитектуре, UX и понятном коде.
+Постоянно развиваюсь: от React и TypeScript — до API-интеграций, commercetools и Firebase.
 
+---
+<img  align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN6enpldzBqNTMzcTJidGt5NW1ndXg5czlsdWh6MXNydTFhcTc4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" height="200" width="200" />
 
-  <img  align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN6enpldzBqNTMzcTJidGt5NW1ndXg5czlsdWh6MXNydTFhcTc4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" height="200" width="200" />
-
-
-### 👨🏻‍💻 About Me
-
-  - 🌱I’m currently learning Typescript;
-
-  - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/artmigalev)
-
-  - ✉️  You can contact me at [art\_migalev@yahoo.com](mailto:art_migalev@yahoo.com)
-
-  - 📫   Feel free to ping me on [LinkedIn](linkedin.com/in/artyom-migalev)
-
-  - 📝   Checkout my resume [resume](http://example/com)
-  - ✨ Developed creative and analytical skills.
-
-</div>
-<hr></hr>
-
-<div >
-
-  ### Connect with me
-  <div >
-    <img align="right"  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25uMjhhanc1Ymc1aXRhZDg4MzFseDhrbHl1anFiMDR3ZGlmazZ3cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tj1SIapmPDqgyBRzZ3/giphy.gif"  height="150" width="100" />
-  </div>
-
-  <div>
-    <a href="https://github.com/https://github.com/artmigalev" target="_blank">
-      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/artyom-migalev/" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/https://www.instagram.com/m.t._instag/" target="_blank">
-      <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-    </a>
-  </div>
-</div>
-
-<hr></hr>
-
-### My Skill Set
-
-
+## 🛠️ Tech Stack
 
 <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZlZzhyMno1a2Q4cGxpcHdwb29uNzB1bXk0OGYxb3FjMnJ6dG5qcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/min28ijNNEE0ZqcOno/giphy.gif" align="left" height="100" width="100" />
 
-<table width="100%">
-  <tr>
-    <td align="top" width="100%">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
 
-### Frontend
+---
 
-<div align="center">
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+## 📌 Немного обо мне
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+- 🔥 Изучаю продвинутые подходы в **React, TypeScript и архитектуре фронтенда**
+- 🛠️ Много работаю с **REST API**, Firebase и commercetools
+- 🎯 Хочу стать уверенным **Middle Frontend Developer**
+- 📚 Люблю писать чистый код и разбирать лучшие практики разработки
+- 🚧 Сейчас делаю мини-**Postman на React + TypeScript**
 
-</div>
-</td></tr></table>
+---
 
+## 🚀 Избранные проекты
 
+### 🔥 Rest Client (mini-Postman) — React + TypeScript + Ant Design
+🔗 https://github.com/artmigalev/rest-client-app
+Инструмент для отправки HTTP-запросов, измерения Request/Response Size и работы с API.
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=artmigalev)
+### 🎧 Music Store — commercetools
+🔗 https://github.com/artmigalev/eCommerce-Application
+Фильтрация продуктов, импорт CSV, локализация, бизнес-логика, регистрация и авторизация.
 
-![image title](https://rushter.com/counter.svg)
+### 🔐 Firebase Auth App
+🔗 https://github.com/artmigalev/rest-client-app
+Авторизация через email/password, работа с Firestore и React-Firebase-Hooks.
+
+---
+
+## 📊 Статистика GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=artmigalev&show_icons=true&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=artmigalev&layout=compact)
+![](https://streak-stats.demolab.com?user=artmigalev)
+
+---
+
+## 📫 Как связаться
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/artmigalev)
+
+---
+
+⭐ **Спасибо, что заглянул!**
+Если хочешь — можешь посмотреть закреплённые репозитории или написать мне 🙂
