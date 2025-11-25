@@ -23,15 +23,17 @@ My goal is to create user-friendly, performant, and visually appealing interface
   - ✨ Developed creative and analytical skills.
 
 </div>
-<hr></hr>
 
+<hr></hr>
 <div >
 
   ### Connect with me
   <div >
-    <img align="right"  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25uMjhhanc1Ymc1aXRhZDg4MzFseDhrbHl1anFiMDR3ZGlmazZ3cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tj1SIapmPDqgyBRzZ3/giphy.gif"  height="150" width="100" />
+    <img align="right"  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25uMjhhanc1Ymc1aXRhZDg4MzFseDhrbHl1anFiMDR3ZGlmazZ3cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tj1SIapmPDqgyBRzZ3/giphy.gif"  height="120" width="100" />
   </div>
-
+	<br>
+	<br>
+	<br>
   <div>
     <a href="https://github.com/https://github.com/artmigalev" target="_blank">
       <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -46,20 +48,20 @@ My goal is to create user-friendly, performant, and visually appealing interface
 </div>
 
 <hr></hr>
-
+<table>
+<tr>
+	
 ### My Skill Set
 
+</tr>
 
-
+	
 <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZlZzhyMno1a2Q4cGxpcHdwb29uNzB1bXk0OGYxb3FjMnJ6dG5qcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/min28ijNNEE0ZqcOno/giphy.gif" align="left" height="100" width="100" />
+	
+</table>
 
-<table width="100%">
-  <tr>
-    <td align="top" width="100%">
 
-### Frontend
-
-<div align="center">
+<div align="right">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -80,9 +82,9 @@ My goal is to create user-friendly, performant, and visually appealing interface
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 
 </div>
-</td></tr></table>
 
 
+<hr></hr>
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=artmigalev)
 
