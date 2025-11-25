@@ -87,3 +87,5 @@ My goal is to create user-friendly, performant, and visually appealing interface
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=artmigalev)
 
 ![image title](https://rushter.com/counter.svg)
+
+![artmigalev github stats](https://github-readme-stats.vercel.app/api?username=artmigalev&show_icons=true&hide_border=true)
