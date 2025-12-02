@@ -11,6 +11,8 @@
 
 <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZlZzhyMno1a2Q4cGxpcHdwb29uNzB1bXk0OGYxb3FjMnJ6dG5qcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/min28ijNNEE0ZqcOno/giphy.gif" align="left" height="100" width="100" />
 
+</table>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
