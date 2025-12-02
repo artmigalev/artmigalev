@@ -40,11 +40,11 @@
 
 ## 🚀 Избранные проекты
 
-### 🔥 Rest Client (mini-Postman) — React + TypeScript + Ant Design
+### 🔥 Rest Client (mini-Postman) — React + TypeScript + React Router v7(framework) + Firebase
 🔗 https://github.com/artmigalev/rest-client-app
 Инструмент для отправки HTTP-запросов, измерения Request/Response Size и работы с API.
 
-### 🎧 Music Store — commercetools
+### 🎧 Music Store — commercetools 
 🔗 https://github.com/artmigalev/eCommerce-Application
 Фильтрация продуктов, импорт CSV, локализация, бизнес-логика, регистрация и авторизация.
 
