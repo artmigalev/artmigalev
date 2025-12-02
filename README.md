@@ -1,17 +1,22 @@
 # 👋 Привет, я Артём
-**Frontend Developer | React | TypeScript | Firebase**
+**Frontend Developer | React | TypeScript | Firebase | Redux Toolkit**
 
+<img  align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN6enpldzBqNTMzcTJidGt5NW1ndXg5czlsdWh6MXNydTFhcTc4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" height="120" width="200" />
 Создаю современные веб-приложения, забочусь о чистой архитектуре, UX и понятном коде.
 Постоянно развиваюсь: от React и TypeScript — до API-интеграций, commercetools и Firebase.
 
+
+
+
+
 ---
-<img  align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN6enpldzBqNTMzcTJidGt5NW1ndXg5czlsdWh6MXNydTFhcTc4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" height="200" width="200" />
 
 ## 🛠️ Tech Stack
 
-<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZlZzhyMno1a2Q4cGxpcHdwb29uNzB1bXk0OGYxb3FjMnJ6dG5qcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/min28ijNNEE0ZqcOno/giphy.gif" align="left" height="100" width="100" />
+<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZlZzhyMno1a2Q4cGxpcHdwb29uNzB1bXk0OGYxb3FjMnJ6dG5qcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/min28ijNNEE0ZqcOno/giphy.gif" align="left" height="70" width="100" />
 
-<p>
+
+<p align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
